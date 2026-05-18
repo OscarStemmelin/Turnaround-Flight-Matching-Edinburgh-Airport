@@ -27,8 +27,7 @@ This project aims to **automatically identify the correct departure flight corre
 │   └── model_choice.py           # Model selection and instantiation
 └── utils.py                      # Utility functions (mappings, flight time, continent lookup…)
 
-
----
+```
 
 ## Project Objective
 
