@@ -1,3 +1,5 @@
+### Due to the confidentiality of the project, we are unable to share the source code or the underlying data. However, we have prepared a detailed outline describing the methodology we followed and the overall structure of our implementation.
+
 # Flight Turnaround Matching — Machine Learning & Optimization
 
 This project aims to **automatically identify the correct departure flight corresponding to the true turnaround of an arrival flight**, using a combination of:
